@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*LAYOUT*/
+body {
+	background:			url(../img/bkgpage.jpg) no-repeat top;
+}
+
+#wrap{
+	background:			url(../img/bkg_content.png) top repeat-y;
+}
+
+
+	.menu{
+		width:				900px;
+		height:				588px;
+		margin:				150px auto 0 auto;
+		background:			url(../img/Img_head.png) top no-repeat;
+		text-align:			center;
+	}
+		.menu_voice{
+			margin-top:			-30px;
+		}
+		.wrap_content{
+			width:				900px;
+			margin:				0 auto 0 auto;
+		}
+
+
+	.content{
+		width:				900px;
+		background:			url(../img/bkg_rep.png) repeat;
+	}
+		.left{
+			width:			390px;
+			margin-top:		-270px;
+			padding:		10px 20px 40px 40px;
+			position:		relative;
+			text-align:		left;
+		}
+		.right{
+			width:			410px;
+			margin-top:		-390px;
+			margin-left:	450px;
+			position:		absolute;
+			padding:		10px 20px 40px 20px;
+			text-align:		left;
+		}
+
+
+
+/*TYPOGRAPHY*/
+.ww_00{
+	margin-bottom: -15px;
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		18px;
+	font-weight:	bold;
+	text-shadow:	#616161 0px 0px 1px;
+}
+.ww_00b{
+	padding-left:	7px;
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		16px;
+	color:			#333;
+	text-shadow:	#FFF 0px 0px 4px;
+}
+.ww_book{
+	margin:-105px 0 0 0;
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		20px;
+	font-weight:	bold;
+	text-shadow:	#616161 0px 0px 2px;
+}
+
+.tabletd{
+	padding:15px 0 15px 0;
+}
+.tabletd_desc{
+	padding:5px 0 5px 8px;
+	font-family:	JosefinSlabSemiBold, Tahoma, Geneva, sans-serif;
+	font-size:		14px;
+
+}
+
+a{
+	margin-bottom: -15px;
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		18px;
+	font-weight:	bold;
+	color:			#000;
+	text-shadow:	#616161 0px 0px 1px;
+	text-decoration:none;
+	border:			none 0px;
+}
+a:hover{
+	text-shadow:	#F00 0px 0px 4px;
+}
+
+img{
+	margin:0;
+	border:none;
+}
+
+/*FORM*/
+.textbox{
+	border:			1px solid #999;
+	height: 		auto;
+	width: 			230px;
+	float:			right;
+
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		18px;
+	font-weight:	bold;
+	color:			#000;
+	text-shadow:	#616161 0px 0px 1px;
+}
+.textareabox{
+	border:			1px solid #999;
+	height: 		400px;
+	min-height:		400px;
+	width: 			660px;
+	max-width: 		660px;
+	min-width:		660px;
+
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		18px;
+	font-weight:	bold;
+	color:			#000;
+	text-shadow:	#616161 0px 0px 1px;
+}
+.resetbutton{
+	border:			1px solid #999;
+	background:		#FFF;
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		18px;
+	font-weight:	bold;
+	color:			#000;
+	text-shadow:	#616161 0px 0px 1px;
+}
+.submitbutton{
+	border:			1px solid #999;
+	background:		#FFF;
+	font-family:	JosefinSlabLight, Tahoma, Geneva, sans-serif;
+	font-size:		18px;
+	font-weight:	bold;
+	color:			#000;
+	text-shadow:	#616161 0px 0px 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
