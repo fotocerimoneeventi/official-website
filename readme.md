@@ -6,7 +6,7 @@ This space is an old space of official static site of FCE project
 
 ---
 
-some other videos and screenshots:<br>
+videos and screenshots:<br>
 
 <table>
   <tr>
